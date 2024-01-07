@@ -1,7 +1,7 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Kavishka Madhuranga </h1>
 <h3 align="center"> Passionate IT Student | A developer from Sri lanka</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bhanubro2k03&label=Profile%20views&color=0e75b6&style=flat" alt="bhanubro2k03" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kavishka02&label=Profile%20views&color=0e75b6&style=flat" alt="Kavishka02" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **java, c#, c, html, javascript, css**
 
-- 📫 How to reach me **bandarabhanuka911@gmail.com**
+- 📫 How to reach me **kavishkamadhuranga011@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -35,13 +35,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=BhanuBro2k03&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Kavishka02&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BhanuBro2k03&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavishka02&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BhanuBro2k03&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kavishka02&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -50,8 +50,7 @@
 ---
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://fb.com/bhanuka bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhanuka bandara" height="50" width="50" /></a>  
+<p align="center"> 
 <a href="https://instagram.com/bhanubro2k03" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" alt="bhanubro2k03" height="50" width="50" /></a>
 <a href="https://discord.gg/bhanubro_2k03_01515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bhanubro_2k03_01515" height="65" width="65" /></a>
 </p>
