@@ -11,7 +11,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **NIBM**
 
-- 💬 Ask me about **java, c#, c, html, javascript, css**
+- 💬 Ask me about **java, c#, c, html, javascript, css , JQuery , MongoDB**
 
 - 📫 How to reach me **kavishkamadhuranga011@gmail.com**
 
