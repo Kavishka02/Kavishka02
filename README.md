@@ -51,8 +51,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"> 
-<a href="https://instagram.com/bhanubro2k03" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" alt="bhanubro2k03" height="50" width="50" /></a>
-<a href="https://discord.gg/bhanubro_2k03_01515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bhanubro_2k03_01515" height="65" width="65" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" alt="bhanubro2k03" height="50" width="50" /></a>
+<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bhanubro_2k03_01515" height="65" width="65" /></a>
 </p>
 
 
